@@ -1,0 +1,1 @@
+An app to host and render guided meditations so they copy/text might be read from and followed easily.
